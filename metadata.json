@@ -1,0 +1,6 @@
+{
+  "name": "Sangtuda",
+  "description": "Android WebView application wrapper for the Sangtuda Driver Panel web platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
